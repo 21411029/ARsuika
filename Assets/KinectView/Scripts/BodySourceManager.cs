@@ -46,7 +46,8 @@ public class BodySourceManager : MonoBehaviour
                 frame.Dispose();
                 frame = null;
             }
-        }    
+        } 
+
     }
     
     void OnApplicationQuit()
@@ -67,4 +68,11 @@ public class BodySourceManager : MonoBehaviour
             _Sensor = null;
         }
     }
+
+	public KinectSensor Sensor{
+		get
+		{
+			return _Sensor;
+		}
+	}
 }

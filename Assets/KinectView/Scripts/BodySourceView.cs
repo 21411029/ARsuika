@@ -10,6 +10,10 @@ public class BodySourceView : MonoBehaviour
     
     private Dictionary<ulong, GameObject> _Bodies = new Dictionary<ulong, GameObject>();
     private BodySourceManager _BodyManager;
+
+	public GameObject RightHand;
+
+
     
     private Dictionary<Kinect.JointType, Kinect.JointType> _BoneMap = new Dictionary<Kinect.JointType, Kinect.JointType>()
     {
@@ -105,6 +109,8 @@ public class BodySourceView : MonoBehaviour
                 RefreshBodyObject(body, _Bodies[body.TrackingId]);
             }
         }
+
+
     }
     
     private GameObject CreateBodyObject(ulong id)
@@ -123,9 +129,13 @@ public class BodySourceView : MonoBehaviour
             jointObj.transform.localScale = new Vector3(0.3f, 0.3f, 0.3f);
             jointObj.name = jt.ToString();
             jointObj.transform.parent = body.transform;
+
+
         }
         
         return body;
+
+
     }
     
     private void RefreshBodyObject(Kinect.Body body, GameObject bodyObject)
@@ -146,6 +156,11 @@ public class BodySourceView : MonoBehaviour
             LineRenderer lr = jointObj.GetComponent<LineRenderer>();
             if(targetJoint.HasValue)
             {
+				if (jt == Kinect.JointType.HandRight) {
+					RightHand.transform.position = jointObj.localPosition;
+					Debug.Log ("RightHand" + jointObj.localPosition.ToString());
+				}
+
                 lr.SetPosition(0, jointObj.localPosition);
                 lr.SetPosition(1, GetVector3FromJoint(targetJoint.Value));
                 lr.SetColors(GetColorForState (sourceJoint.TrackingState), GetColorForState(targetJoint.Value.TrackingState));
@@ -155,6 +170,7 @@ public class BodySourceView : MonoBehaviour
                 lr.enabled = false;
             }
         }
+
     }
     
     private static Color GetColorForState(Kinect.TrackingState state)
@@ -175,5 +191,8 @@ public class BodySourceView : MonoBehaviour
     private static Vector3 GetVector3FromJoint(Kinect.Joint joint)
     {
         return new Vector3(joint.Position.X * 10, joint.Position.Y * 10, joint.Position.Z * 10);
+
     }
+
+		
 }
