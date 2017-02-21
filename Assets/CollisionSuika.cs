@@ -7,15 +7,15 @@ public class CollisionSuika : MonoBehaviour {
 	public GameObject gennkeiSuika;
 	public GameObject wareSuika;
 
-
-
-
+	public GameObject scoreText;
 
 	// Use this for initialization
 	void Start () {
 		suika = GameObject.Find ("Suika");
 		gennkeiSuika= GameObject.Find ("gennkei");
 		wareSuika = GameObject.Find ("ware");
+
+		scoreText = GameObject.Find ("Score");
 
 		wareSuika.SetActive (false);
 	}
@@ -25,21 +25,15 @@ public class CollisionSuika : MonoBehaviour {
 		
 	}
 
-	/*void OnCollisionEnter(Collision collision){
-		if (collision.gameObject.name == "suika") {
-			//suika.SetActive (false);
-			suika.GetComponent<MeshRenderer> ().material.color = Color.blue;
-			cube.SetActive (true);
-		}
-	}*/
-	void OnTriggerEnter(Collider other){
-		//Debug.Log ("Hit!");
-		if (other.gameObject.tag == "suika") {
+	void OnCollisionEnter(Collision collision){
+		Debug.Log ("Hit!");
+		if (collision.gameObject.tag == "suika") {
 			//suika.SetActive (false);
 			//suika.GetComponent<MeshRenderer> ().material.color = Color.blue;
+			scoreText.BroadcastMessage("ScoreUp",1);
 			gennkeiSuika.SetActive (false);
-			wareSuika.SetActive (true);
 
 		}
 	}
+
 }
