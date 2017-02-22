@@ -3,7 +3,7 @@ using System.Collections;
 
 public class CollisionSuika : MonoBehaviour {
 
-	public GameObject suika;
+	//public GameObject suika;
 	public GameObject gennkeiSuika;
 	public GameObject wareSuika;
 
@@ -11,7 +11,7 @@ public class CollisionSuika : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		suika = GameObject.Find ("Suika");
+		//suika = GameObject.Find ("Suika");
 		gennkeiSuika= GameObject.Find ("gennkei");
 		wareSuika = GameObject.Find ("ware");
 
@@ -26,12 +26,13 @@ public class CollisionSuika : MonoBehaviour {
 	}
 
 	void OnCollisionEnter(Collision collision){
-		Debug.Log ("Hit!");
+		//Debug.Log ("Hit!");
 		if (collision.gameObject.tag == "suika") {
 			//suika.SetActive (false);
 			//suika.GetComponent<MeshRenderer> ().material.color = Color.blue;
 			scoreText.SendMessage("ScoreUp",1);
 			gennkeiSuika.SetActive (false);
+			wareSuika.SetActive (true);
 
 		}
 	}
