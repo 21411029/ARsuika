@@ -45,14 +45,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CollisionSuika.cs" />
-     <Compile Include="Assets\ReadyScript.cs" />
-     <Compile Include="Assets\ScoreScript.cs" />
-     <Compile Include="Assets\Sensor.cs" />
-     <Compile Include="Assets\StartGame.cs" />
-     <Compile Include="Assets\StickPosScript.cs" />
-     <Compile Include="Assets\SuikaPosScript.cs" />
-     <Compile Include="Assets\TimeScript.cs" />
+     <Compile Include="Assets\Scripts\CollisionSuika.cs" />
+     <Compile Include="Assets\Scripts\ReadyScript.cs" />
+     <Compile Include="Assets\Scripts\ScoreScript.cs" />
+     <Compile Include="Assets\Scripts\Sensor.cs" />
+     <Compile Include="Assets\Scripts\StartGame.cs" />
+     <Compile Include="Assets\Scripts\StickPosScript.cs" />
+     <Compile Include="Assets\Scripts\SuikaPosScript.cs" />
+     <Compile Include="Assets\Scripts\TimeScript.cs" />
+     <Compile Include="Assets\Scripts\vuforiaSetup.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
@@ -94,11 +95,11 @@
      <Compile Include="Assets\Vuforia\Scripts\WireframeBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\WireframeTrackableEventHandler.cs" />
      <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
+     <None Include="Assets\StreamingAssets\QCAR\ARsuika.xml" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\readme_SDK.txt" />
-     <None Include="Assets\StreamingAssets\QCAR\ARsuika.xml" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />

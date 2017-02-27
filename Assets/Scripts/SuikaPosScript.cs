@@ -15,7 +15,16 @@ public class SuikaPosScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		genSuika.transform.position = sensor.getSuikaPosition ();
+		Vector3 tempSuikaPos = sensor.getSuikaPosition ();
+		if (tempSuikaPos.y < 0) {
+			return;
+		}
+		if (tempSuikaPos.y >= 1.0f) {
+			genSuika.transform.position = tempSuikaPos;
+		}
+
+		genSuika.GetComponent<Rigidbody>().velocity = Vector3.zero;
+		genSuika.GetComponent<Rigidbody> ().angularVelocity = Vector3.zero;
 
 	}
 }

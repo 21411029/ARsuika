@@ -27,7 +27,7 @@ public class CollisionSuika : MonoBehaviour {
 
 	void OnCollisionEnter(Collision collision){
 		//Debug.Log ("Hit!");
-		if (collision.gameObject.tag == "suika") {
+/*		if (collision.gameObject.tag == "suika") {
 			//suika.SetActive (false);
 			//suika.GetComponent<MeshRenderer> ().material.color = Color.blue;
 			scoreText.SendMessage("ScoreUp",1);
@@ -35,6 +35,7 @@ public class CollisionSuika : MonoBehaviour {
 			wareSuika.SetActive (true);
 
 		}
+		*/
 	}
 
 }
