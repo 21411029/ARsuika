@@ -27,7 +27,7 @@ public class Sensor : MonoBehaviour {
 		{
 			x = Random.value * 1.5f + 0.5f;
 			z = -(Random.value * 1.5f + 0.5f);
-			y = 2.0f;
+			y = 1.9f;
 			result = new Vector3 (x,y,z);
 			if (timer > 5.0f)
 				timer = 0;
@@ -37,7 +37,7 @@ public class Sensor : MonoBehaviour {
 	}
 
 	public Vector3 getStickPosition(){
-		Vector3 result = new Vector3(0,0,0);
+		Vector3 result = new Vector3(0,1,0);
 
 		return result;
 	}
