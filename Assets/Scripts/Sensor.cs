@@ -1,51 +1,44 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
 
 public class Sensor : MonoBehaviour {
 
 	float timer = 0;
+	UDPReceiver recv;
+
+	Vector3 suikaPos, stickPos, stickDir;
+	int gameState;
 
 	// Use this for initialization
 	void Start () {
-		
+		recv = GetComponent<UDPReceiver>();
 	}
 	
 	// Update is called once per frame
 	void Update () {
-	
+		string rawdata = recv.getLatestUDPPacket();
+		Debug.Log(rawdata);
+		string[] data = rawdata.Split(',');
+		gameState = Int32.Parse(data[0]);
+		suikaPos = new Vector3(float.Parse(data[1]), float.Parse(data[2]), float.Parse(data[3]));
+		stickPos = new Vector3(float.Parse(data[4]), float.Parse(data[5]), float.Parse(data[6]));
+		stickDir = new Vector3(float.Parse(data[7]), float.Parse(data[8]), float.Parse(data[9]));
 	}
 
 	// returns global coord.
 	// returns y < 0 if the position is not detected.
 	public Vector3 getSuikaPosition (){
-		float x, y, z;
-		Vector3 result = new Vector3(0,-1,0);
-
-		timer += Time.deltaTime;
-
-		if( timer > 3.0f )
-		{
-			x = Random.value * 1.5f + 0.5f;
-			z = -(Random.value * 1.5f + 0.5f);
-			y = 1.9f;
-			result = new Vector3 (x,y,z);
-			if (timer > 5.0f)
-				timer = 0;
-		}
-
-		return result;
+		return suikaPos;
 	}
 
 	public Vector3 getStickPosition(){
-		Vector3 result = new Vector3(0,1,0);
-
-		return result;
+		return stickPos;
 	}
 
 	public Vector3 getStickFront(){
-		Vector3 result = new Vector3(0,1,0);
-
-		return result;
+		return stickDir;
 	}
+
 
 }
