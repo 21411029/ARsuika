@@ -18,8 +18,12 @@ public class Sensor : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		string rawdata = recv.getLatestUDPPacket();
-		Debug.Log(rawdata);
+
 		string[] data = rawdata.Split(',');
+		if (data.Length < 9)
+			return;
+		if( float.Parse(data[2]) > 0 )
+			Debug.Log(rawdata);
 		gameState = Int32.Parse(data[0]);
 		suikaPos = new Vector3(float.Parse(data[1]), float.Parse(data[2]), float.Parse(data[3]));
 		stickPos = new Vector3(float.Parse(data[4]), float.Parse(data[5]), float.Parse(data[6]));

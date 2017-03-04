@@ -123,7 +123,7 @@ public class UDPReceiver : MonoBehaviour
                 string text = Encoding.UTF8.GetString(data);
 
                 // Den abgerufenen Text anzeigen.
-                Debug.Log(">> " + text);
+                // Debug.Log(">> " + text);
 
                 // latest UDPpacket
                 lastReceivedUDPPacket = text;

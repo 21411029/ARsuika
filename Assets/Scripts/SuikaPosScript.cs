@@ -19,12 +19,11 @@ public class SuikaPosScript : MonoBehaviour {
 		if (tempSuikaPos.y < 0) {
 			return;
 		}
-		if (tempSuikaPos.y >= 1.0f) {
+
+		if (tempSuikaPos.y >= 2.0f) {
 			genSuika.transform.position = tempSuikaPos;
+			genSuika.GetComponent<Rigidbody>().velocity = Vector3.zero;
 		}
-
-		genSuika.GetComponent<Rigidbody>().velocity = Vector3.zero;
-		genSuika.GetComponent<Rigidbody> ().angularVelocity = Vector3.zero;
-
+		Debug.Log(genSuika.transform.position.ToString());
 	}
 }
