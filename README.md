@@ -23,6 +23,6 @@ http://dl-ssl.google.com/android/repository/tools_r25.2.5-windows.zip　から�
 - Asus TF201 = 4.1.1
 
 # Version
-- Vuforia 6.0.117
+- Vuforia ~~6.0.117~~ 6.2.10 （Extended Tracking を利用。これは効く）
 - Unity 5.3.5f1
 - Kinect2 ???
