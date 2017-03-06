@@ -17,7 +17,12 @@ http://dl-ssl.google.com/android/repository/tools_r25.2.5-windows.zip　から�
 
 # Devices
 
-Tegra Note = 5.1
-Asus Notepad = 4.2.2
-Takagi Note = 4.0.4
-Asus TF201 = 4.1.1
+- Tegra Note = 5.1
+- Asus Notepad = 4.2.2
+- Takagi Note = 4.0.4
+- Asus TF201 = 4.1.1
+
+# Version
+- Vuforia 6.0.117
+- Unity 5.3.5f1
+- Kinect2 ???
