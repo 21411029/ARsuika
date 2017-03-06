@@ -3,26 +3,26 @@ PTC Inc.
 =============================================================
 
 This Readme file contains certain notices of software components
-included with the Vuforia SDK v6.2.10 that 
+included with the Vuforia SDK v6.2.10 that
 PTC Inc. is required to provide you. Notwithstanding anything in the
  notices in this file, your use of these software components together
-with the Vuforia SDK is subject to the terms of your license from 
+with the Vuforia SDK is subject to the terms of your license from
 PTC Inc..  Compliance with all copyright laws and software license
 agreements included in the notice section of this file are the
 responsibility of the user.  Except as may be granted by separate
 express written agreement, this file provides no license to any
 patents, trademarks, copyrights, or other intellectual
-property of PTC Inc. or its affiliates. 
+property of PTC Inc. or its affiliates.
 
 Software provided with this notice is NOT A CONTRIBUTION to any Open Source project.
 
-Copyright (c) 2012-2016 PTC Inc.  
+Copyright (c) 2012-2016 PTC Inc.
 All rights reserved.
 
-PTC is a trademark of PTC Inc., registered in 
-the United States and other countries. Vuforia is a trademark of 
-PTC Inc.. Trademarks of PTC Inc. are used 
-with permission. All other trademarks and service marks are the 
+PTC is a trademark of PTC Inc., registered in
+the United States and other countries. Vuforia is a trademark of
+PTC Inc.. Trademarks of PTC Inc. are used
+with permission. All other trademarks and service marks are the
 property of their respective owners.
 
 
@@ -37,23 +37,23 @@ NOTICES
 
 TinyXml is released under the zlib license:
 
-This software is provided 'as-is', without any express or implied 
-warranty. In no event will the authors be held liable for any 
+This software is provided 'as-is', without any express or implied
+warranty. In no event will the authors be held liable for any
 damages arising from the use of this software.
 
-Permission is granted to anyone to use this software for any 
-purpose, including commercial applications, and to alter it and 
+Permission is granted to anyone to use this software for any
+purpose, including commercial applications, and to alter it and
 redistribute it freely, subject to the following restrictions:
 
-1. The origin of this software must not be misrepresented; you must 
-not claim that you wrote the original software. If you use this 
-software in a product, an acknowledgment in the product documentation 
+1. The origin of this software must not be misrepresented; you must
+not claim that you wrote the original software. If you use this
+software in a product, an acknowledgment in the product documentation
 would be appreciated but is not required.
 
-2. Altered source versions must be plainly marked as such, and 
+2. Altered source versions must be plainly marked as such, and
 must not be misrepresented as being the original software.
 
-3. This notice may not be removed or altered from any source 
+3. This notice may not be removed or altered from any source
 distribution.
 
 
@@ -210,8 +210,8 @@ are met:
 	 notice, this list of conditions and the following disclaimer in the
 	 documentation and/or other materials provided with the distribution.
 
-	*Neither the name of the University of Cambridge nor the names of 
-	 its contributors may be used to endorse or promote products derived 
+	*Neither the name of the University of Cambridge nor the names of
+	 its contributors may be used to endorse or promote products derived
 	 from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
@@ -231,34 +231,34 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 =============================================================
 
 // ISO C9x  compliant stdint.h for Microsoft Visual Studio
-// Based on ISO/IEC 9899:TC2 Committee draft (May 6, 2005) WG14/N1124 
-// 
+// Based on ISO/IEC 9899:TC2 Committee draft (May 6, 2005) WG14/N1124
+//
 //  Copyright (c) 2006-2008 Alexander Chemeris
-// 
+//
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided that the following conditions are met:
-// 
+//
 //   1. Redistributions of source code must retain the above copyright notice,
 //      this list of conditions and the following disclaimer.
-// 
+//
 //   2. Redistributions in binary form must reproduce the above copyright
 //      notice, this list of conditions and the following disclaimer in the
 //      documentation and/or other materials provided with the distribution.
-// 
+//
 //   3. The name of the author may be used to endorse or promote products
 //      derived from this software without specific prior written permission.
-// 
+//
 // THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED
 // WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
 // MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
 // EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
 // SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
 // PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
-// OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+// OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
 // WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
 // OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 // ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-// 
+//
 ///////////////////////////////////////////////////////////////////////////////
 
 =============================================================
@@ -799,9 +799,9 @@ SUCH DAMAGE.
  *
  *	@(#)types.h	8.3 (Berkeley) 1/5/94
  */
- 
+
  -------------------------------------------------------------
- 
+
  /*
  * ====================================================
  * Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.
@@ -841,9 +841,9 @@ SUCH DAMAGE.
  * any improvements or extensions that they make and grant Carnegie the
  * rights to redistribute these changes.
  */
- 
+
  -------------------------------------------------------------
- 
+
     Copyright (c) 2005-2008, The Android Open Source Project
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -1038,11 +1038,11 @@ SUCH DAMAGE.
 =============================================================
 1.11 iOS SDK (V.6.0) -  This software is developed using unmodified
 iOS SDK header files included in Apple's iOS SDK and such use is not a
-Modification. 
+Modification.
 
 Mac OS X SDK (V.10.8) -  This software is developed using unmodified
 OS X SDK header files included in Apple's Mac OS X SDK and such use is not a
-Modification. 
+Modification.
 
 This software contains iOS and OS X SDK header files that were received with
 notices indicating they were subject to the following.
@@ -1238,7 +1238,7 @@ notices indicating they were subject to the following.
  * -
  * Copyright (c) 1983, 1993
  *    The Regents of the University of California.  All rights reserved.
- * 
+ *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
  * are met:
@@ -1254,7 +1254,7 @@ notices indicating they were subject to the following.
  * 4. Neither the name of the University nor the names of its contributors
  *    may be used to endorse or promote products derived from this software
  *    without specific prior written permission.
- * 
+ *
  * THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
  * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
  * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
@@ -1268,14 +1268,14 @@ notices indicating they were subject to the following.
  * SUCH DAMAGE.
  * -
  * Portions Copyright (c) 1993 by Digital Equipment Corporation.
- * 
+ *
  * Permission to use, copy, modify, and distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above
  * copyright notice and this permission notice appear in all copies, and that
  * the name of Digital Equipment Corporation not be used in advertising or
  * publicity pertaining to distribution of the document or software without
  * specific, written prior permission.
- * 
+ *
  * THE SOFTWARE IS PROVIDED "AS IS" AND DIGITAL EQUIPMENT CORP. DISCLAIMS ALL
  * WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES
  * OF MERCHANTABILITY AND FITNESS.   IN NO EVENT SHALL DIGITAL EQUIPMENT
@@ -1811,7 +1811,7 @@ notices indicating they were subject to the following.
 
 -------------------------------------------------------------
 
-/* 
+/*
  * Copyright (c) 1995
  *	The Regents of the University of California.  All rights reserved.
  *
@@ -2578,14 +2578,14 @@ notices indicating they were subject to the following.
 -------------------------------------------------------------
 
  * @APPLE_LICENSE_HEADER_START@
- * 
+ *
  * This file contains Original Code and/or Modifications of Original Code
  * as defined in and that are subject to the Apple Public Source License
  * Version 2.0 (the 'License'). You may not use this file except in
  * compliance with the License. Please obtain a copy of the License at
  * http://www.opensource.apple.com/apsl/ and read it before using this
  * file.
- * 
+ *
  * The Original Code and all software distributed under the License are
  * distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER
  * EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES,
@@ -2593,7 +2593,7 @@ notices indicating they were subject to the following.
  * FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.
  * Please see the License for the specific language governing rights and
  * limitations under the License.
- * 
+ *
  * @APPLE_LICENSE_HEADER_END@
 
 -------------------------------------------------------------
@@ -2606,7 +2606,7 @@ notices indicating they were subject to the following.
  * compliance with the License. Please obtain a copy of the License at
  * http://www.opensource.apple.com/apsl/ and read it before using this
  * file.
- * 
+ *
  * The Original Code and all software distributed under the License are
  * distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER
  * EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES,
@@ -2614,7 +2614,7 @@ notices indicating they were subject to the following.
  * FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.
  * Please see the License for the specific language governing rights and
  * limitations under the License.
- * 
+ *
  * @APPLE_LICENSE_HEADER_END@
 
 -------------------------------------------------------------
@@ -2640,7 +2640,7 @@ notices indicating they were subject to the following.
 -------------------------------------------------------------
 
  * @APPLE_OSREFERENCE_LICENSE_HEADER_START@
- * 
+ *
  * This file contains Original Code and/or Modifications of Original Code
  * as defined in and that are subject to the Apple Public Source License
  * Version 2.0 (the 'License'). You may not use this file except in
@@ -2649,10 +2649,10 @@ notices indicating they were subject to the following.
  * unlawful or unlicensed copies of an Apple operating system, or to
  * circumvent, violate, or enable the circumvention or violation of, any
  * terms of an Apple operating system software license agreement.
- * 
+ *
  * Please obtain a copy of the License at
  * http://www.opensource.apple.com/apsl/ and read it before using this file.
- * 
+ *
  * The Original Code and all software distributed under the License are
  * distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER
  * EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES,
@@ -2660,19 +2660,19 @@ notices indicating they were subject to the following.
  * FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.
  * Please see the License for the specific language governing rights and
  * limitations under the License.
- * 
+ *
  * @APPLE_OSREFERENCE_LICENSE_HEADER_END@
 
 -------------------------------------------------------------
 
  * @APPLE_LICENSE_HEADER_START@
- * 
+ *
  * The contents of this file constitute Original Code as defined in and
  * are subject to the Apple Public Source License Version 1.1 (the
  * "License").  You may not use this file except in compliance with the
  * License.  Please obtain a copy of the License at
  * http://www.apple.com/publicsource and read it before using this file.
- * 
+ *
  * This Original Code and all software distributed under the License are
  * distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, EITHER
  * EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES,
@@ -2680,7 +2680,7 @@ notices indicating they were subject to the following.
  * FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.  Please see the
  * License for the specific language governing rights and limitations
  * under the License.
- * 
+ *
  * @APPLE_LICENSE_HEADER_END@
 
 -------------------------------------------------------------
@@ -2918,112 +2918,28 @@ notices indicating they were subject to the following.
 
 -------------------------------------------------------------
 
-/* 
+/*
  * Mach Operating System
  * Copyright (c) 1991,1990,1989 Carnegie Mellon University
  * All Rights Reserved.
- * 
+ *
  * Permission to use, copy, modify and distribute this software and its
  * documentation is hereby granted, provided that both the copyright
  * notice and this permission notice appear in all copies of the
  * software, derivative works or modified versions, and any portions
  * thereof, and that both notices appear in supporting documentation.
- * 
+ *
  * CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS"
  * CONDITION.  CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR
  * ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
- * 
+ *
  * Carnegie Mellon requests users of this software to return to
- * 
+ *
  *  Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU
  *  School of Computer Science
  *  Carnegie Mellon University
  *  Pittsburgh PA 15213-3890
- * 
- * any improvements or extensions that they make and grant Carnegie Mellon
- * the rights to redistribute these changes.
- */
-
--------------------------------------------------------------
-
-/* 
- * Mach Operating System
- * Copyright (c) 1991,1990,1989,1988 Carnegie Mellon University
- * All Rights Reserved.
- * 
- * Permission to use, copy, modify and distribute this software and its
- * documentation is hereby granted, provided that both the copyright
- * notice and this permission notice appear in all copies of the
- * software, derivative works or modified versions, and any portions
- * thereof, and that both notices appear in supporting documentation.
- * 
- * CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS"
- * CONDITION.  CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR
- * ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
- * 
- * Carnegie Mellon requests users of this software to return to
- * 
- *  Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU
- *  School of Computer Science
- *  Carnegie Mellon University
- *  Pittsburgh PA 15213-3890
- * 
- * any improvements or extensions that they make and grant Carnegie Mellon
- * the rights to redistribute these changes.
- */
-
--------------------------------------------------------------
-
-/* 
- * Mach Operating System
- * Copyright (c) 1991,1990,1989,1988,1987 Carnegie Mellon University
- * All Rights Reserved.
- * 
- * Permission to use, copy, modify and distribute this software and its
- * documentation is hereby granted, provided that both the copyright
- * notice and this permission notice appear in all copies of the
- * software, derivative works or modified versions, and any portions
- * thereof, and that both notices appear in supporting documentation.
- * 
- * CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS"
- * CONDITION.  CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR
- * ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
- * 
- * Carnegie Mellon requests users of this software to return to
- * 
- *  Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU
- *  School of Computer Science
- *  Carnegie Mellon University
- *  Pittsburgh PA 15213-3890
- * 
- * any improvements or extensions that they make and grant Carnegie Mellon
- * the rights to redistribute these changes.
- */
-
--------------------------------------------------------------
-
-/* 
- * Mach Operating System
- * Copyright (c) 1991 Carnegie Mellon University
- * All Rights Reserved.
- * 
- * Permission to use, copy, modify and distribute this software and its
- * documentation is hereby granted, provided that both the copyright
- * notice and this permission notice appear in all copies of the
- * software, derivative works or modified versions, and any portions
- * thereof, and that both notices appear in supporting documentation.
- * 
- * CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS"
- * CONDITION.  CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR
- * ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
- * 
- * Carnegie Mellon requests users of this software to return to
- * 
- *  Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU
- *  School of Computer Science
- *  Carnegie Mellon University
- *  Pittsburgh PA 15213-3890
- * 
+ *
  * any improvements or extensions that they make and grant Carnegie Mellon
  * the rights to redistribute these changes.
  */
@@ -3034,24 +2950,108 @@ notices indicating they were subject to the following.
  * Mach Operating System
  * Copyright (c) 1991,1990,1989,1988 Carnegie Mellon University
  * All Rights Reserved.
- * 
+ *
  * Permission to use, copy, modify and distribute this software and its
  * documentation is hereby granted, provided that both the copyright
  * notice and this permission notice appear in all copies of the
  * software, derivative works or modified versions, and any portions
  * thereof, and that both notices appear in supporting documentation.
- * 
+ *
  * CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS"
  * CONDITION.  CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR
  * ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
- * 
+ *
  * Carnegie Mellon requests users of this software to return to
- * 
+ *
  *  Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU
  *  School of Computer Science
  *  Carnegie Mellon University
  *  Pittsburgh PA 15213-3890
- * 
+ *
+ * any improvements or extensions that they make and grant Carnegie Mellon
+ * the rights to redistribute these changes.
+ */
+
+-------------------------------------------------------------
+
+/*
+ * Mach Operating System
+ * Copyright (c) 1991,1990,1989,1988,1987 Carnegie Mellon University
+ * All Rights Reserved.
+ *
+ * Permission to use, copy, modify and distribute this software and its
+ * documentation is hereby granted, provided that both the copyright
+ * notice and this permission notice appear in all copies of the
+ * software, derivative works or modified versions, and any portions
+ * thereof, and that both notices appear in supporting documentation.
+ *
+ * CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS"
+ * CONDITION.  CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR
+ * ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
+ *
+ * Carnegie Mellon requests users of this software to return to
+ *
+ *  Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU
+ *  School of Computer Science
+ *  Carnegie Mellon University
+ *  Pittsburgh PA 15213-3890
+ *
+ * any improvements or extensions that they make and grant Carnegie Mellon
+ * the rights to redistribute these changes.
+ */
+
+-------------------------------------------------------------
+
+/*
+ * Mach Operating System
+ * Copyright (c) 1991 Carnegie Mellon University
+ * All Rights Reserved.
+ *
+ * Permission to use, copy, modify and distribute this software and its
+ * documentation is hereby granted, provided that both the copyright
+ * notice and this permission notice appear in all copies of the
+ * software, derivative works or modified versions, and any portions
+ * thereof, and that both notices appear in supporting documentation.
+ *
+ * CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS"
+ * CONDITION.  CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR
+ * ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
+ *
+ * Carnegie Mellon requests users of this software to return to
+ *
+ *  Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU
+ *  School of Computer Science
+ *  Carnegie Mellon University
+ *  Pittsburgh PA 15213-3890
+ *
+ * any improvements or extensions that they make and grant Carnegie Mellon
+ * the rights to redistribute these changes.
+ */
+
+-------------------------------------------------------------
+
+/*
+ * Mach Operating System
+ * Copyright (c) 1991,1990,1989,1988 Carnegie Mellon University
+ * All Rights Reserved.
+ *
+ * Permission to use, copy, modify and distribute this software and its
+ * documentation is hereby granted, provided that both the copyright
+ * notice and this permission notice appear in all copies of the
+ * software, derivative works or modified versions, and any portions
+ * thereof, and that both notices appear in supporting documentation.
+ *
+ * CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS"
+ * CONDITION.  CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR
+ * ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
+ *
+ * Carnegie Mellon requests users of this software to return to
+ *
+ *  Software Distribution Coordinator  or  Software.Distribution@CS.CMU.EDU
+ *  School of Computer Science
+ *  Carnegie Mellon University
+ *  Pittsburgh PA 15213-3890
+ *
  * any improvements or extensions that they make and grant Carnegie Mellon
  * the rights to redistribute these changes.
  */
@@ -3330,7 +3330,7 @@ PSF LICENSE AGREEMENT FOR PYTHON 2.7.5
     Nothing in this License Agreement shall be deemed to create any relationship of agency, partnership, or joint venture between PSF and Licensee. This License Agreement does not grant permission to use PSF trademarks or trade name in a trademark sense to endorse or promote products or services of Licensee, or any third party.
     By copying, installing or otherwise using Python 2.7.5, Licensee agrees to be bound by the terms and conditions of this License Agreement.
 
-    
+
 =============================================================
 1.13 LLVM Release license
 =============================================================
@@ -3426,7 +3426,7 @@ SUCH DAMAGE.
 */
 
 =============================================================
-1.14 OpenCV MSER 
+1.14 OpenCV MSER
 =============================================================
 
 /* Redistribution and use in source and binary forms, with or
@@ -3478,7 +3478,7 @@ This software contains altered TinyXML code by Tyge Lovset.
 This software contains simage code. All portions of the used code have been
 released in the public domain.
 
-This software contains KLT Optical Flow v1.3.4 which is in the public domain. 
+This software contains KLT Optical Flow v1.3.4 which is in the public domain.
 
 
 
@@ -3507,7 +3507,7 @@ with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and
 redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded, 
+fonts, including any derivative works, can be bundled, embedded,
 redistributed and/or sold with any software provided that any reserved
 names are not used by derivative works. The fonts and derivatives,
 however, cannot be released under any other type of license. The
@@ -3576,47 +3576,47 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 ---------------------------------------------
 Wordnet 3.0 Copyright Notice
 ----------------------------------------------
-WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved. 
-THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON UNIVERSITY 
-MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF 
+WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved.
+THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON UNIVERSITY
+MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF
 EXAMPLE, BUT NOT LIMITATION, PRINCETON UNIVERSITY MAKES NO REPRESENTATIONS
- OR WARRANTIES OF MERCHANT- ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE 
- OR THAT THE USE OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL 
+ OR WARRANTIES OF MERCHANT- ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE
+ OR THAT THE USE OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL
  NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
  The name of Princeton University or Princeton may not be used in advertising
- or publicity pertaining to distribution of the software and/or database. 
+ or publicity pertaining to distribution of the software and/or database.
  Title to copyright in this software, database and any associated documentation
  shall at all times remain with Princeton University and you agree to preserve same.
- 
+
  PSF LICENSE AGREEMENT FOR PYTHON 2.7.5
-1.	This LICENSE AGREEMENT is between the Python Software Foundation (“PSF”), and the 
-Individual or Organization (“Licensee”) accessing and otherwise using Python 2.7.5 
+1.	This LICENSE AGREEMENT is between the Python Software Foundation (“PSF”), and the
+Individual or Organization (“Licensee”) accessing and otherwise using Python 2.7.5
 software in source or binary form and its associated documentation.
-2.	Subject to the terms and conditions of this License Agreement, PSF hereby grants 
-Licensee a nonexclusive, royalty-free, world-wide license to reproduce, analyze, test, 
-perform and/or display publicly, prepare derivative works, distribute, and otherwise 
-use Python 2.7.5 alone or in any derivative version, provided, however, that PSF’s License 
-Agreement and PSF’s notice of copyright, i.e., “Copyright © 2001-2013 Python Software 
-Foundation; All Rights Reserved” are retained in Python 2.7.5 alone or in any derivative 
+2.	Subject to the terms and conditions of this License Agreement, PSF hereby grants
+Licensee a nonexclusive, royalty-free, world-wide license to reproduce, analyze, test,
+perform and/or display publicly, prepare derivative works, distribute, and otherwise
+use Python 2.7.5 alone or in any derivative version, provided, however, that PSF’s License
+Agreement and PSF’s notice of copyright, i.e., “Copyright © 2001-2013 Python Software
+Foundation; All Rights Reserved” are retained in Python 2.7.5 alone or in any derivative
 version prepared by Licensee.
-3.	In the event Licensee prepares a derivative work that is based on or incorporates 
-Python 2.7.5 or any part thereof, and wants to make the derivative work available to 
-others as provided herein, then Licensee hereby agrees to include in any such work a brief 
+3.	In the event Licensee prepares a derivative work that is based on or incorporates
+Python 2.7.5 or any part thereof, and wants to make the derivative work available to
+others as provided herein, then Licensee hereby agrees to include in any such work a brief
 summary of the changes made to Python 2.7.5.
-4.	PSF is making Python 2.7.5 available to Licensee on an “AS IS” basis. PSF MAKES NO 
-REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF EXAMPLE, BUT NOT LIMITATION, 
-PSF MAKES NO AND DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS 
+4.	PSF is making Python 2.7.5 available to Licensee on an “AS IS” basis. PSF MAKES NO
+REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF EXAMPLE, BUT NOT LIMITATION,
+PSF MAKES NO AND DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS
 FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF PYTHON 2.7.5 WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.
-5.	PSF SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF PYTHON 2.7.5 FOR ANY INCIDENTAL, 
-SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS A RESULT OF MODIFYING, DISTRIBUTING, OR OTHERWISE 
+5.	PSF SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF PYTHON 2.7.5 FOR ANY INCIDENTAL,
+SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS A RESULT OF MODIFYING, DISTRIBUTING, OR OTHERWISE
 USING PYTHON 2.7.5, OR ANY DERIVATIVE THEREOF, EVEN IF ADVISED OF THE POSSIBILITY THEREOF.
-6.	This License Agreement will automatically terminate upon a material breach of its terms 
+6.	This License Agreement will automatically terminate upon a material breach of its terms
 and conditions.
 7.	Nothing in this License Agreement shall be deemed to create any relationship of agency,
- partnership, or joint venture between PSF and Licensee. This License Agreement does not grant 
- permission to use PSF trademarks or trade name in a trademark sense to endorse or promote 
+ partnership, or joint venture between PSF and Licensee. This License Agreement does not grant
+ permission to use PSF trademarks or trade name in a trademark sense to endorse or promote
  products or services of Licensee, or any third party.
-8.	By copying, installing or otherwise using Python 2.7.5, Licensee agrees to be bound by the 
+8.	By copying, installing or otherwise using Python 2.7.5, Licensee agrees to be bound by the
 terms and conditions of this License Agreement.
 
 ---------------------------------------------
@@ -3681,22 +3681,22 @@ Code downloaded from “http://developer.android.com/sdk/ndk/index.html”. Lice
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
 	 */
----------------------------------------------     
+---------------------------------------------
 libGLES
 ---------------------------------------------
 Copyright (C) [dates of first publication] Silicon Graphics, Inc. All Rights Reserved.
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-The above copyright notice including the dates of first publication and either this permission notice or a reference to http://oss.sgi.com/projects/FreeB/ shall be included in all copies or substantial portions of the Software. 
+The above copyright notice including the dates of first publication and either this permission notice or a reference to http://oss.sgi.com/projects/FreeB/ shall be included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL SILICON GRAPHICS, INC. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 	Except as contained in this notice, the name of Silicon Graphics, Inc. shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from Silicon Graphics, Inc.
 
----------------------------------------------     
+---------------------------------------------
 Qhull
----------------------------------------------     
+---------------------------------------------
 Qhull, Copyright (c) 1993-2012
 
 C.B. Barber
-Arlington, MA 
+Arlington, MA
 
 and
 
@@ -3707,29 +3707,29 @@ University of Minnesota
 
 email: qhull@qhull.org
 
-This software includes Qhull from C.B. Barber and The Geometry Center.  
-Qhull is copyrighted as noted above.  Qhull is free software and may 
-be obtained via http from www.qhull.org.  It may be freely copied, modified, 
+This software includes Qhull from C.B. Barber and The Geometry Center.
+Qhull is copyrighted as noted above.  Qhull is free software and may
+be obtained via http from www.qhull.org.  It may be freely copied, modified,
 and redistributed under the following conditions:
 
 1. All copyright notices must remain intact in all files.
 
-2. A copy of this text file must be distributed along with any copies 
-of Qhull that you redistribute; this includes copies that you have 
-modified, or copies of programs or other software products that 
+2. A copy of this text file must be distributed along with any copies
+of Qhull that you redistribute; this includes copies that you have
+modified, or copies of programs or other software products that
 include Qhull.
 
 3. If you modify Qhull, you must include a notice giving the
 name of the person performing the modification, the date of
 modification, and the reason for such modification.
 
-4. When distributing modified versions of Qhull, or other software 
-products that include Qhull, you must provide notice that the original 
+4. When distributing modified versions of Qhull, or other software
+products that include Qhull, you must provide notice that the original
 source code may be obtained as noted above.
 
-5. There is no warranty or other guarantee of fitness for Qhull, it is 
-provided solely "as is".  Bug reports or fixes may be sent to 
-qhull_bug@qhull.org; the authors may or may not act on them as 
+5. There is no warranty or other guarantee of fitness for Qhull, it is
+provided solely "as is".  Bug reports or fixes may be sent to
+qhull_bug@qhull.org; the authors may or may not act on them as
 they desire.
 
 ---------------------------------------------
@@ -3737,39 +3737,39 @@ Windows SDK Headers
 ---------------------------------------------
 
 	Header files included in the build include (directly or indirectly) files with the following licenses.  These files are all part of the Visual Studio C include path or the Windows SDK, the license for which can be found below.   Some of them were provided to Microsoft by third parties, but Microsoft licenses them to the developer as part of their Windows SDK.
-	
-/* 
-* This file is derived from software bearing the following 
-* restrictions: 
-* 
-* Copyright (c) 1994 
-* Hewlett-Packard Company 
-* 
-* Permission to use, copy, modify, distribute and sell this 
-* software and its documentation for any purpose is hereby 
-* granted without fee, provided that the above copyright notice 
-* appear in all copies and that both that copyright notice and 
-* this permission notice appear in supporting documentation. 
-* Hewlett-Packard Company makes no representations about the 
-* suitability of this software for any purpose. It is provided 
-* "as is" without express or implied warranty. 
-*/ 
 
-/* 
-* Copyright (c) 1992-2012 by P.J. Plauger. ALL RIGHTS RESERVED. 
-* Consult your license regarding permissions and restrictions. 
+/*
+* This file is derived from software bearing the following
+* restrictions:
+*
+* Copyright (c) 1994
+* Hewlett-Packard Company
+*
+* Permission to use, copy, modify, distribute and sell this
+* software and its documentation for any purpose is hereby
+* granted without fee, provided that the above copyright notice
+* appear in all copies and that both that copyright notice and
+* this permission notice appear in supporting documentation.
+* Hewlett-Packard Company makes no representations about the
+* suitability of this software for any purpose. It is provided
+* "as is" without express or implied warranty.
+*/
+
+/*
+* Copyright (c) 1992-2012 by P.J. Plauger. ALL RIGHTS RESERVED.
+* Consult your license regarding permissions and restrictions.
 V6.00:0009 */
 
 	/*
 * Copyright (c) 1992-2012 by P.J. Plauger. ALL RIGHTS RESERVED.
 * Consult your license regarding permissions and restrictions.
 V6.00:0009 */
-	
+
 	/*
 * Copyright (c) 1992-2007 by P.J. Plauger. ALL RIGHTS RESERVED.
 * Consult your license regarding permissions and restrictions.
 V5.03:0009 */
-	
+
 //
 // Copyright (C) Microsoft. All rights reserved.
 //
@@ -3784,7 +3784,7 @@ V5.03:0009 */
 *** from the company.
 ***
 ****/
-	
+
 /****
 * Copyright (C) 2007-2008 Advanced Micro Devices Inc. All rights reserved.
 *
@@ -3819,7 +3819,7 @@ V5.03:0009 */
 *** from the company.
 ***
 ****/
-	
+
 /***
 ***
 *** Copyright (C) 1985-2005 Intel Corporation. All rights reserved.
@@ -3874,11 +3874,11 @@ V5.03:0009 */
 * Berkeley Software License Agreement specifies the terms and
 * conditions for redistribution.
 */
-	
+
  
 ************************************************************************
 MICROSOFT SOFTWARE LICENSE TERMS
-MICROSOFT WINDOWS SOFTWARE DEVELOPMENT KIT FOR WINDOWS 8 
+MICROSOFT WINDOWS SOFTWARE DEVELOPMENT KIT FOR WINDOWS 8
 These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them. They apply to the software named above, which includes the media on which you received it, if any. The terms also apply to any Microsoft
 	updates,
 	supplements,
@@ -3888,22 +3888,22 @@ for this software, unless other terms accompany those items. If so, those terms 
 By using the software, you accept these terms. If you do not accept them, do not use the software.
 As described below, using some features also operates as your consent to the transmission of certain standard computer information for Internet-based services.
 If you comply with these license terms, you have the perpetual rights below.
-1.	INSTALLATION AND USE RIGHTS. 
+1.	INSTALLATION AND USE RIGHTS.
 a.	You may install and use any number of copies of the software on your devices to design, develop and test your programs that run on a Windows operating system.  Further, you may install, use and/or deploy via a network management system or as part of a desktop image, any number of copies of the software on computer devices within your internal corporate network to design, develop and test your programs that run on a Windows operating system. Each copy must be complete, including all copyright and trademark notices. You must require end users to agree to terms that protect the software as much as these license terms.
-b.	Utilities.  The software contains certain components that are identified in the Utilities List located at http://go.microsoft.com/fwlink/?LinkId=251959.  Depending on the specific edition of the software, the number of Utility files you receive with the software may not be equal to the number of Utilities listed in the Utilities List.   Except as otherwise provided on the Utilities List for specific files, you may copy and install the Utilities you receive with the software on to other third party machines. These Utilities may only be used to debug and deploy your programs and databases you have developed with the software.  You must delete all the Utilities installed onto a third party machine within the earlier of (i) when you have finished debugging or deploying your programs; or (ii) thirty (30) days after installation of the Utilities onto that machine. We may add additional files to this list from time to time.   
-c.	Build Server List.  The software contains certain components that are identified in the Build Server List located at http://go.microsoft.com/fwlink/?LinkId=251961.   You may install copies of the files listed in it, onto your build machines, solely for the purpose of compiling, building, verifying and archiving your programs.  These components may only be used in order to create and configure build systems internal to your organization to support your internal build environment.  These components do not provide external distribution rights to any of the software or enable you to provide a build environment as a service to third parties. We may add additional files to this list from time to time.   
-d.	Included Microsoft Programs. The software contains other Microsoft programs. These license terms apply to your use of those programs. 
-e.	Third Party Notices.  The software may include third party code that Microsoft, not the third party, licenses to you under this agreement. Notices, if any, for the third party code are included for your information only.  Notices, if any, for this third party code are included with the software and may be found in the ThirdPartyNotices.txt file located at http://go.microsoft.com/fwlink/?LinkId=251962.  
+b.	Utilities.  The software contains certain components that are identified in the Utilities List located at http://go.microsoft.com/fwlink/?LinkId=251959.  Depending on the specific edition of the software, the number of Utility files you receive with the software may not be equal to the number of Utilities listed in the Utilities List.   Except as otherwise provided on the Utilities List for specific files, you may copy and install the Utilities you receive with the software on to other third party machines. These Utilities may only be used to debug and deploy your programs and databases you have developed with the software.  You must delete all the Utilities installed onto a third party machine within the earlier of (i) when you have finished debugging or deploying your programs; or (ii) thirty (30) days after installation of the Utilities onto that machine. We may add additional files to this list from time to time.
+c.	Build Server List.  The software contains certain components that are identified in the Build Server List located at http://go.microsoft.com/fwlink/?LinkId=251961.   You may install copies of the files listed in it, onto your build machines, solely for the purpose of compiling, building, verifying and archiving your programs.  These components may only be used in order to create and configure build systems internal to your organization to support your internal build environment.  These components do not provide external distribution rights to any of the software or enable you to provide a build environment as a service to third parties. We may add additional files to this list from time to time.
+d.	Included Microsoft Programs. The software contains other Microsoft programs. These license terms apply to your use of those programs.
+e.	Third Party Notices.  The software may include third party code that Microsoft, not the third party, licenses to you under this agreement. Notices, if any, for the third party code are included for your information only.  Notices, if any, for this third party code are included with the software and may be found in the ThirdPartyNotices.txt file located at http://go.microsoft.com/fwlink/?LinkId=251962.
 2.	ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.
 a.	Distributable Code. The software contains code that you are permitted to distribute in programs you develop if you comply with the terms below.
 i.	Right to Use and Distribute. The code and text files listed below are “Distributable Code.”
-	REDIST.TXT Files. You may copy and distribute the object code form of code listed in REDIST.TXT files plus any of the files listed on the REDIST list located at http://go.microsoft.com/fwlink/?LinkId=251953.  Depending on the specific edition of the software, the number of REDIST files you receive with the software may not be equal to the number of REDIST files listed in the REDIST.TXT List. We may add additional files to this list from time to time.   
+	REDIST.TXT Files. You may copy and distribute the object code form of code listed in REDIST.TXT files plus any of the files listed on the REDIST list located at http://go.microsoft.com/fwlink/?LinkId=251953.  Depending on the specific edition of the software, the number of REDIST files you receive with the software may not be equal to the number of REDIST files listed in the REDIST.TXT List. We may add additional files to this list from time to time.
 	Third Party Distribution. You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs.
-ii.	Distribution Requirements. For any Distributable Code you distribute, you must 
+ii.	Distribution Requirements. For any Distributable Code you distribute, you must
 	add significant primary functionality to it in your programs;
 	for any Distributable Code having a filename extension of .lib, distribute only the results of running such Distributable Code through a linker with your program;
 	distribute Distributable Code included in a setup program only as part of that setup program without modification;
-	require distributors and external end users to agree to terms that protect it at least as much as this agreement; 
+	require distributors and external end users to agree to terms that protect it at least as much as this agreement;
 	for Distributable Code from the Windows Performance Toolkit portions of the software, distribute the unmodified software package as a whole with your programs, with the exception of the KernelTraceControl.dll and the WindowsPerformanceRecorderControl.dll which can be distributed with your programs;
 	display your valid copyright notice on your programs; and
 	indemnify, defend, and hold harmless Microsoft from any claims, including attorneys’ fees, related to the distribution or use of your programs.
@@ -3911,7 +3911,7 @@ iii.	Distribution Restrictions. You may not
 	alter any copyright, trademark or patent notice in the Distributable Code;
 	use Microsoft’s trademarks in your programs’ names or in a way that suggests your programs come from or are endorsed by Microsoft;
 	distribute partial copies of the Windows Performance Toolkit portion of the software package with the exception of the KernelTraceControl.dll and the WindowsPerformanceRecorderControl.dll which can be distributed with your programs;
-	distribute Distributable Code to run on a platform other than the Windows platform; 
+	distribute Distributable Code to run on a platform other than the Windows platform;
 	include Distributable Code in malicious, deceptive or unlawful programs; or
 	modify or distribute the source code of any Distributable Code so that any part of it becomes subject to an Excluded License. An Excluded License is one that requires, as a condition of use, modification or distribution, that
 	the code be disclosed or distributed in source code form; or
@@ -3926,7 +3926,7 @@ i.	Computer Information. The following features use Internet protocols, which se
 ii.	Use of Information. We may use the computer information, error reports, and CEIP information, to improve our software and services. We may also share it with others, such as hardware and software vendors. They may use the information to improve how their products run with Microsoft software.
 5.	SCOPE OF LICENSE. The software is licensed, not sold. This agreement only gives you some rights to use the software. Microsoft reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways. You may not
 	disclose the results of any benchmark tests of the software to any third party without Microsoft’s prior written approval;
-	work around any technical limitations in the software;  
+	work around any technical limitations in the software;
 	reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
 	make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
 	publish the software for others to copy;
@@ -3964,9 +3964,9 @@ EFFET JURIDIQUE. Le présent contrat décrit certains droits juridiques. Vous po
 EULAID:WINKITS.RTM.6.2.0.0_en-US
 
 
----------------------------------------------     
+---------------------------------------------
 NanoSVG
----------------------------------------------     
+---------------------------------------------
 
 Copyright (c) 2013-14 Mikko Mononen memon@inside.org
 
@@ -3987,9 +3987,9 @@ misrepresented as being the original software.
 3. This notice may not be removed or altered from any source distribution.
 
 
----------------------------------------------     
+---------------------------------------------
 Schifra
----------------------------------------------     
+---------------------------------------------
 
 Schifra
 Reed-Solomon Error Correcting Code Library
@@ -4030,10 +4030,10 @@ Windows 10 SDK Headers
 ---------------------------------------------
 
 	Header files included in the build include (directly or indirectly) files with the following licenses.  These files are all part of the Visual Studio 2015 include path or the Windows 10 SDK, the license for which can be found below.   Some of them were provided to Microsoft by third parties, but Microsoft licenses them to the developer as part of their Windows SDK.
-	
-// 
-// Copyright (C) Microsoft. All rights reserved. 
-// 
+
+//
+// Copyright (C) Microsoft. All rights reserved.
+//
 
 
 /***
@@ -4057,7 +4057,7 @@ Windows 10 SDK Headers
 *  ammintrin.h - Definitions for AMD-specific intrinsics
 *
 ****/
-  
+
 /***
 *** Copyright (C) 1985-1999 Intel Corporation.  All rights reserved.
 ***
@@ -4067,8 +4067,8 @@ Windows 10 SDK Headers
 *** from the company.
 ***
 ****/
- 
- 
+
+
 /***
 * imminitrin.h - Meta Header file for Intel(R) Architecture intrinsic functions.
 *
@@ -4081,7 +4081,7 @@ Windows 10 SDK Headers
 *
 *
 *******************************************************************************/
- 
+
 /***
 *** Copyright (C) 1985-1999 Intel Corporation.  All rights reserved.
 ***
@@ -4101,7 +4101,7 @@ Windows 10 SDK Headers
 *** from the company.
 ***
 ****/
- 
+
 /*
  * This file is derived from software bearing the following
  * restrictions:
@@ -4117,13 +4117,13 @@ Windows 10 SDK Headers
  * about the suitability of this software for any purpose.
  * It is provided "as is" without express or implied warranty.
  */
- 
+
 /*
  * Copyright (c) by P.J. Plauger. All rights reserved.
  * Consult your license regarding permissions and restrictions.
 V6.50:0009 */
- 
- 
+
+
 /* Winsock2.h -- definitions to be used with the WinSock 2 DLL and
  *               WinSock 2 applications.
  *
@@ -4139,7 +4139,7 @@ V6.50:0009 */
 
 
 MICROSOFT SOFTWARE LICENSE TERMS
-MICROSOFT WINDOWS SOFTWARE DEVELOPMENT KIT (SDK) FOR WINDOWS 10 
+MICROSOFT WINDOWS SOFTWARE DEVELOPMENT KIT (SDK) FOR WINDOWS 10
 _______________________________________________________________________________________________________
 These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them. They apply to the software named above, which includes the media on which you received it, if any. The terms also apply to any Microsoft
 •	updates,
@@ -4147,21 +4147,21 @@ These license terms are an agreement between Microsoft Corporation (or based on 
 •	Internet-based services, and
 •	support services
 for this software, unless other terms accompany those items. If so, those terms apply.
-By using the software, you accept these terms. If you do not accept them, do not use the software. 
+By using the software, you accept these terms. If you do not accept them, do not use the software.
 As described below, using some features also operates as your consent to the transmission of certain standard computer information for Internet-based services.
-________________________________________________________________________________________________ 
+________________________________________________________________________________________________
 If you comply with these license terms, you have the rights below.
-1.	INSTALLATION AND USE RIGHTS.  
-a.	You may install and use any number of copies of the software on your devices to design, develop and test your programs that run on a Microsoft operating system. Further, you may install, use and/or deploy via a network management system or as part of a desktop image, any number of copies of the software on computer devices within your internal corporate network to design, develop and test your programs that run on a Microsoft operating system. Each copy must be complete, including all copyright and trademark notices. You must require end users to agree to terms that protect the software as much as these license terms. 
+1.	INSTALLATION AND USE RIGHTS.
+a.	You may install and use any number of copies of the software on your devices to design, develop and test your programs that run on a Microsoft operating system. Further, you may install, use and/or deploy via a network management system or as part of a desktop image, any number of copies of the software on computer devices within your internal corporate network to design, develop and test your programs that run on a Microsoft operating system. Each copy must be complete, including all copyright and trademark notices. You must require end users to agree to terms that protect the software as much as these license terms.
 b.	Utilities.  The software contains certain components that are identified in the Utilities List located at http://go.microsoft.com/fwlink/?LinkId=524839.  Depending on the specific edition of the software, the number of Utility files you receive with the software may not be equal to the number of Utilities listed in the Utilities List.   Except as otherwise provided on the Utilities List for specific files, you may copy and install the Utilities you receive with the software on to other third party machines. These Utilities may only be used to debug and deploy your programs and databases you have developed with the software.  You must delete all the Utilities installed onto a third party machine within the earlier of (i) when you have finished debugging or deploying your programs; or (ii) thirty (30) days after installation of the Utilities onto that machine. We may add additional files to this list from time to time.
 c.	Build Server List.  The software contains certain components that are identified in the Build Server List located at http://go.microsoft.com/fwlink/?LinkId=524838.   You may install copies of the files listed in it, onto your build machines, solely for the purpose of compiling, building, verifying and archiving your programs.  These components may only be used in order to create and configure build systems internal to your organization to support your internal build environment.  These components do not provide external distribution rights to any of the software or enable you to provide a build environment as a service to third parties. We may add additional files to this list from time to time.
 d.	Included Microsoft Programs. The software contains other Microsoft programs. The license terms with those programs apply to your use of them.
-e.	Third Party Notices.  The software may include third party code that Microsoft, not the third party, licenses to you under this agreement. Notices, if any, for the third party code are included for your information only.  Notices, if any, for this third party code are included with the software and may be located at http://go.microsoft.com/fwlink/?LinkId=524840.   
+e.	Third Party Notices.  The software may include third party code that Microsoft, not the third party, licenses to you under this agreement. Notices, if any, for the third party code are included for your information only.  Notices, if any, for this third party code are included with the software and may be located at http://go.microsoft.com/fwlink/?LinkId=524840.
 2.	ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.
 a.	Distributable Code. The software contains code that you are permitted to distribute in programs you develop if you comply with the terms below.
 i.	Right to Use and Distribute. The code and test files listed below are “Distributable Code”.
 •	REDIST.TXT Files. You may copy and distribute the object code form of code listed in REDIST.TXT files plus the files listed on the REDIST.TXT list located at http://go.microsoft.com/fwlink/?LinkId=524842. Depending on the specific edition of the software, the number of REDIST files you receive with the software may not be equal to the number of REDIST files listed in the REDIST.TXT List. We may add additional files to the list from time to time.
-•	Third Party Distribution. You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs. 
+•	Third Party Distribution. You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs.
 ii.	Distribution Requirements. For any Distributable Code you distribute, you must
 •	Add significant primary functionality to it in your programs;
 •	For any Distributable Code having a filename extension of .lib, distribute only the results of running such Distributable Code through a linker with your program;
@@ -4169,7 +4169,7 @@ ii.	Distribution Requirements. For any Distributable Code you distribute, you mu
 •	Require distributors and external end users to agree to terms that protect it at least as much as this agreement;
 •	For Distributable Code from the Windows Performance Toolkit portions of the software, distribute the unmodified software package as a whole with your programs, with the exception of the KernelTraceControl.dll and the WindowsPerformanceRecorderControl.dll which can be distributed with your programs;
 •	Display your valid copyright notice on your programs; and
-•	Indemnify, defend, and hold harmless Microsoft from any claims, including attorneys’ fees, related to the distribution or use of your programs. 
+•	Indemnify, defend, and hold harmless Microsoft from any claims, including attorneys’ fees, related to the distribution or use of your programs.
 iii.	Distribution Restrictions. You may not
 •	Alter any copyright, trademark or patent notice in the Distributable Code;
 •	Use Microsoft’s trademarks in your programs’ names or in a way that suggests your programs come from or are endorsed by Microsoft;
@@ -4179,37 +4179,37 @@ iii.	Distribution Restrictions. You may not
 •	Modified or distribute the source code of any Distributable Code so that any part of it becomes subject to an Excluded License. And Excluded License is on that requir3es, as a condition of use, modification or distribution, that
 •	The code be disclosed or distributed in source code form; or
 •	Others have the right to modify it.
-b.	Additional Licensing Requirements and/or Distribution Rights for Features made Available with the Software. 
-i.	Windows App Requirements. If you intend to make your program available in the Windows Store, the program must comply with the Certification Requirements as defined and described in the App Developer Agreement, currently available at: https://msdn.microsoft.com/en-us/library/windows/apps/hh694058.aspx. 
+b.	Additional Licensing Requirements and/or Distribution Rights for Features made Available with the Software.
+i.	Windows App Requirements. If you intend to make your program available in the Windows Store, the program must comply with the Certification Requirements as defined and described in the App Developer Agreement, currently available at: https://msdn.microsoft.com/en-us/library/windows/apps/hh694058.aspx.
 ii.	Bing Maps. The software may include features that retrieve content such as maps, images and other data through the Bing Maps (or successor branded) application programming interface (the “Bing Maps API”) to create reports displaying data on top of maps, aerial and hybrid imagery. If these features are included, you may use these features to create and view dynamic or static documents only in conjunction with and through methods and means of access integrated in the software. You may not otherwise copy, store, archive, or create a database of the entity information including business names, addresses and geocodes available through the Bing Maps API. You may not use the Bing Maps API to provide sensor based guidance/routing, nor use any Road Traffic Data or Bird’s Eye Imager (or associated metadata) even if available through the Bing Maps API for any purpose. Your use of the Bing Maps API and associated content is also subject to the additional terms and conditions at http://go.microsoft.com/fwlink/?LinkId=21969.
 iii.	Additional Mapping APIs. The software may include application programming interfaces that provide maps and other related mapping features and services that are not provided by Bing (the “Additional Mapping APIs”). These Additional Mapping APIs are subject to additional terms and conditions and may require payment of fees to Microsoft and/or third party providers based on the use or volume of use of such Additional Mapping APIs. These terms and conditions will be provided when you obtain any necessary license keys to use such Additional Mapping APIs or when you review or receive documentation related to the use of such Additional Mapping APIs.
 iv.	Push Notifications. The Microsoft Push Notification Service may not be used to send notifications that are mission critical or otherwise could affect matters of life or death, including without limitation critical notifications related to a medical device or condition. MICROSOFT EXPRESSLY DISCLAIMS ANY WARRANTIES THAT THE USE OF THE MICROSOFT PUSH NOTIFICATION SERVICE OR DELIVERY OF MICROSOFT PUSH NOTIFICATION SERVICE NOTIFICATIONS WILL BE UNINTERRUPTED, ERROR FREE, OR OTHERWISE GUARANTEED TO OCCUR ON A REAL-TIME BASIS.
 v.	Speech namespace API. Using speech recognition functionality via the Speech namespace APIs in a program requires the support of a speech recognition service. The service may require network connectivity at the time of recognition (e.g., when using a predefined grammar). In addition, the service may also collect speech-related data in order to provide and improve the service. The speech-related data may include, for example, information related to grammar size and string phrases in a grammar.
-	Also, in order for a user to use speech recognition on the phone they must first accept certain terms of use. The terms of use notify the user that data related to their use of the speech recognition service will be collected and used to provide and improve the service. If a user does not accept the terms of use and speech recognition is attempted by the application, the operation will not work and an error will be returned to the application. 
+	Also, in order for a user to use speech recognition on the phone they must first accept certain terms of use. The terms of use notify the user that data related to their use of the speech recognition service will be collected and used to provide and improve the service. If a user does not accept the terms of use and speech recognition is attempted by the application, the operation will not work and an error will be returned to the application.
 vi.	API Use. We may monitor and collect data related to a program’s use of APIs in order to provide, improve and personalize Microsoft products and services.  End user information collected by Microsoft‘s monitoring and data collection related to your program’s use of APIs is subject to the Microsoft Consumer Privacy Statement.
 vii.	Location Framework. The software may contain a location framework component that enables support of location services in programs.  In addition to the other limitations in this agreement, you must comply with all applicable local laws and regulations when using the location framework component or the rest of the software.
-viii.	Device ID Access. The software may contain a component that enables programs to access the device ID of the device that is running the program. In addition to the other limitations in this agreement, you must comply with all applicable local laws and regulations when using the device ID access component or the rest of the software. 
-ix.	PlayReady Support. The software may include the Windows Emulator, which contains Microsoft’s PlayReady content access technology.  Content owners use Microsoft PlayReady content access technology to protect their intellectual property, including copyrighted content.  This software uses PlayReady technology to access PlayReady-protected content and/or WMDRM-protected content.  Microsoft may decide to revoke the software’s ability to consume PlayReady-protected content for reasons including but not limited to (i) if a breach or potential breach of PlayReady technology occurs, (ii) proactive robustness enhancement, and (iii) if Content owners require the revocation because the software fails to properly enforce restrictions on content usage.  Revocation should not affect unprotected content or content protected by other content access technologies.  Content owners may require you to upgrade PlayReady to access their content.  If you decline an upgrade, you will not be able to access content that requires the upgrade and may not be able to install other operating system updates or upgrades.  
+viii.	Device ID Access. The software may contain a component that enables programs to access the device ID of the device that is running the program. In addition to the other limitations in this agreement, you must comply with all applicable local laws and regulations when using the device ID access component or the rest of the software.
+ix.	PlayReady Support. The software may include the Windows Emulator, which contains Microsoft’s PlayReady content access technology.  Content owners use Microsoft PlayReady content access technology to protect their intellectual property, including copyrighted content.  This software uses PlayReady technology to access PlayReady-protected content and/or WMDRM-protected content.  Microsoft may decide to revoke the software’s ability to consume PlayReady-protected content for reasons including but not limited to (i) if a breach or potential breach of PlayReady technology occurs, (ii) proactive robustness enhancement, and (iii) if Content owners require the revocation because the software fails to properly enforce restrictions on content usage.  Revocation should not affect unprotected content or content protected by other content access technologies.  Content owners may require you to upgrade PlayReady to access their content.  If you decline an upgrade, you will not be able to access content that requires the upgrade and may not be able to install other operating system updates or upgrades.
 x.	Package Managers. The software may include package managers, like NuGet, that give you the option to download other Microsoft and third party software packages to use with your application. Those packages are under their own licenses, and not this agreement. Microsoft does not distribute, license or provide any warranties for any of the third party packages.
-xi.	Font Components. While the software is running, you may use its fonts to display and print content. You may only embed fonts in content as permitted by the embedding restrictions in the fonts; and temporarily download them to a printer or other output device to help print content. 
-xii.	Notice about the H.264/AVD Visual Standard, and the VC-1 Video Standard. This software may include H.264/MPEG-4 AVC and/or VD-1 decoding technology. MPEG LA, L.L.C. requires this notice: 
+xi.	Font Components. While the software is running, you may use its fonts to display and print content. You may only embed fonts in content as permitted by the embedding restrictions in the fonts; and temporarily download them to a printer or other output device to help print content.
+xii.	Notice about the H.264/AVD Visual Standard, and the VC-1 Video Standard. This software may include H.264/MPEG-4 AVC and/or VD-1 decoding technology. MPEG LA, L.L.C. requires this notice:
 THIS PRODUCT IS LICENSED UNDER THE AVC AND THE VC-1 PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE ABOVE STANDARDS (“VIDEO STANDARDS”) AND/OR (ii) DECODE AVC, AND VC-1 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NONE OF THE LICENSES EXTEND TO ANY OTHER PRODUCT REGARDLESS OF WHETHER SUCH PRODUCT IS INCLUDED WITH THIS SOFTWARE IN A SINGLE ARTICLE. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE WWW.MPEGLA.COM.
 For clarification purposes, this notice does not limit or inhibit the use of the software for normal business uses that are personal to that business which do not include (i) redistribution of the software to third parties, or (ii) creation of content with the VIDEO STANDARDS compliant technologies for distribution to third parties.
-3.	INTERNET-BASED SERVICES. Microsoft provides Internet-based services with the software. It may change or cancel them at any time. 
+3.	INTERNET-BASED SERVICES. Microsoft provides Internet-based services with the software. It may change or cancel them at any time.
 a.	Consent for Internet-Based Services. The software features described below and in the privacy statement at http://go.microsoft.com/fwlink/?LinkId=521839 connect to Microsoft or service provider computer systems over the Internet. In some cases, you will not receive a separate notice when they connect. In some cases, you may switch off these features or not use them. By using these features, you consent to the transmission of this information. Microsoft does not use the information to identify or contact you.
 i.	Computer Information. The following features use Internet protocols, which send to the appropriate systems computer information, such as your Internet protocol address, the type of operating system, browser, and name and version of the software you are using, and the language code of the device where you installed the software. Microsoft uses this information to make the Internet-based services available to you.
-•	Customer Experience Improvement Program (CEIP). This software uses CEIP. CEIP automatically sends Microsoft information about your hardware and how you use the software. We do not use this information to identify or contact you. CEIP will also periodically download a small file to your computer. This file helps us collect information about problems that you have while using the software. When available, new help information about the errors might also be automatically downloaded. To learn more about CEIP and how to turn it off, see http://go.microsoft.com/fwlink/?LinkId=525878. 
+•	Customer Experience Improvement Program (CEIP). This software uses CEIP. CEIP automatically sends Microsoft information about your hardware and how you use the software. We do not use this information to identify or contact you. CEIP will also periodically download a small file to your computer. This file helps us collect information about problems that you have while using the software. When available, new help information about the errors might also be automatically downloaded. To learn more about CEIP and how to turn it off, see http://go.microsoft.com/fwlink/?LinkId=525878.
 •	Digital Certificates. The software uses digital certificates. These digital certificates confirm the identity of Internet users sending X.509 standard encryption information. They also can be used to digitally sign files and macros to verify the integrity and origin of the file contents. The software retrieves certificates and updates certificate revocation lists using the Internet, when available.
-•	Error Reports. This software automatically sends error reports to Microsoft. These reports include information about problems that occur in the software. Sometimes reports contain information about other programs that interact with the software. Reports might unintentionally contain personal information. For example, a report that contains a snapshot of computer memory might include your name. Part of a document you were working on could be included as well. Microsoft does not use this information to identify or contact you. To learn more about error reports, see http://oca.microsoft.com/en/dcp20.asp. 
-•	Windows Application Certification Kit. To ensure you have the latest certification tests, when launched this software periodically checks a Windows Application Certification Kit file on download.microsft.com to see if an update is available.  If an update is found, you are prompted and provided a link to a web site where you can download the update. You may use the Windows Application Certification Kit solely to test your programs before you submit them for a potential Microsoft Windows Certification and for inclusion on the Microsoft Windows Store. The results you receive are for informational purposes only. Microsoft has no obligation to either (i) provide you with a Windows Certification for your programs and/or ii) include your program in the Microsoft Windows Store.  
-•	Microsoft Digital Rights Management for Silverlight. 
+•	Error Reports. This software automatically sends error reports to Microsoft. These reports include information about problems that occur in the software. Sometimes reports contain information about other programs that interact with the software. Reports might unintentionally contain personal information. For example, a report that contains a snapshot of computer memory might include your name. Part of a document you were working on could be included as well. Microsoft does not use this information to identify or contact you. To learn more about error reports, see http://oca.microsoft.com/en/dcp20.asp.
+•	Windows Application Certification Kit. To ensure you have the latest certification tests, when launched this software periodically checks a Windows Application Certification Kit file on download.microsft.com to see if an update is available.  If an update is found, you are prompted and provided a link to a web site where you can download the update. You may use the Windows Application Certification Kit solely to test your programs before you submit them for a potential Microsoft Windows Certification and for inclusion on the Microsoft Windows Store. The results you receive are for informational purposes only. Microsoft has no obligation to either (i) provide you with a Windows Certification for your programs and/or ii) include your program in the Microsoft Windows Store.
+•	Microsoft Digital Rights Management for Silverlight.
 If you use Silverlight to access content that has been protected with Microsoft Digital Rights Management (DRM), in order to let you play the content, the software may automatically
 •	request media usage rights from a rights server on the Internet and
 •	download and install available DRM Updates.
 For more information about this feature, including instructions for turning the Automatic Updates off, go to http://go.microsoft.com/fwlink/?LinkId=147032.
 •	Web Content Features.  Features in the software can retrieve related content from Microsoft and provide it to you. To provide the content, these features send to Microsoft the type of operating system, name and version of the software you are using, type of browser and language code of the device where you installed the software. Examples of these features are clip art, templates, online training, online assistance, help and Appshelp. You may choose not to use these web content features.
 ii.	Use of Information. We may use the computer information, error reports, and CEIP information, to improve our software and services. We may also share it with others, such as hardware and software vendors. They may use the information to improve how their products run with Microsoft software.
-iii.	Misuse of Internet-based Services. You may not use these services in any way that could harm them or impair anyone else’s use of them. You may not use the services to try to gain unauthorized access to any service, data, account or network by any means. 
+iii.	Misuse of Internet-based Services. You may not use these services in any way that could harm them or impair anyone else’s use of them. You may not use the services to try to gain unauthorized access to any service, data, account or network by any means.
 4.	BACKUP COPY. You may make one backup copy of the software. You may use it only to reinstall the software.
 5.	DOCUMENTATION. Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
 6.	SCOPE OF LICENSE. The software is licensed, not sold. This agreement only gives you some rights to use the software. Microsoft reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways. You may not
@@ -4250,5 +4250,3 @@ EULAID:WIN10SDK.RTM.MAY 26_en-US
 
 
 *************************************************************************
-
-
