@@ -16,7 +16,11 @@ public class StickPosScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		stickDevice.transform.position = sensor.getStickPosition ();
-		stickDevice.transform.LookAt (sensor.getStickFront());
+		Vector3 pos = sensor.getStickPosition();
+		Vector3 front = sensor.getStickFront().normalized;
+		float stickLength = GameObject.FindGameObjectWithTag("stick").transform.localScale.z;
+
+		stickDevice.transform.position = pos + front * stickLength / 2 ;
+		stickDevice.transform.LookAt (pos + front * stickLength );
 	}
 }
